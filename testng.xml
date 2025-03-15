@@ -19,6 +19,12 @@
 			<class name="test.AmazonTest1" />
 		</classes>
 	</test>
-
+	
+	<!--<test name="AmazonTest">
+		<classes>
+			<class name="test.AmazonTest1" />
+		</classes>
+	</test>
+-->
 
 </suite> <!-- Suite -->
